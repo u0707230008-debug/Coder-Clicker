@@ -2,7 +2,7 @@
 //  SwiftUIView.swift
 //  Coder Clicker
 //
-//  Created by Nils Potier on 21/09/2025.
+//  Created by Static Softwares on 21/09/2025.
 //
 
 import SwiftUI
