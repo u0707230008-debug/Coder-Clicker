@@ -1,2 +1,2 @@
 # Coder-Clicker
-Un jeu créé par Static Softwares.
+Un jeu créé par Lighting Softwares, codé en SwiftUI.
